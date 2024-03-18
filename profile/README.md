@@ -1,4 +1,4 @@
-## Welcome to the home of public releases from CyberCX's Digitial Forensics & Incident Response Practice 👋
+## Welcome to the home of public releases from CyberCX's Digital Forensics & Incident Response Practice 👋
 
 CyberCX is the leading provider of professional cyber security and cloud services across Australia and New Zealand.
 
